@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1192-security-config-production-boot-accepts-the"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1192-security-config-production-boot-accepts-the": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1192-security-config-production-boot-accepts-the"
+  ]
+}
